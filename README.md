@@ -1,7 +1,7 @@
 # RandomFourierFeatures
 Implementation of Random Fourier Features using only numpy.
 
-paper: [Random Features for Large-Scale Kernel Machines](https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf)
+paper: [Random Features for Large-Scale Kernel Machines](https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf) (NIPS 2008)
 ## Overview
 Random Fourier Features (RFF) is a finite set of feature maps that approximate the inner product of a continuous and stationary positive definite kernel.  
 The existence of this distribution is guaranteed by Bochner's theorem.
