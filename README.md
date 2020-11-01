@@ -9,7 +9,7 @@ The existence of this distribution is guaranteed by Bochner's theorem.
 In this part, we approximate GP using RBF kernel by Bayesian Linear Regression (BLR) using RFF.
 
 - Number of features : 1000
-- Training points : 3, 10, 100, 1000
+- Training points : 3, 10, 100, 3000
 
 ## Plot
 In RFF, the predictions in extrapolation is unstable and cause variance starvation. (see https://arxiv.org/pdf/1706.01445.pdf)
