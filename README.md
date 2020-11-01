@@ -6,7 +6,7 @@ paper: [Random Features for Large-Scale Kernel Machines](https://people.eecs.ber
 Random Fourier Features (RFF) is a finite set of feature maps that approximate the inner product of a continuous and stationary positive definite kernel.  
 The existence of this distribution is guaranteed by Bochner's theorem.
 
-In this part, we approximate GP using RBF kernel by Bayesian Linear Regression (BLR) using RFF.
+In this part, we approximate GP using RBF kernel by Bayesian Linear Regression (BLR) with RFF.
 
 - Number of features : 1000
 - Training points : 3, 10, 100, 3000
