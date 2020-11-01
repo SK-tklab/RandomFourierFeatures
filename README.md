@@ -14,7 +14,7 @@ In this part, we approximate GP using RBF kernel by Bayesian Linear Regression (
 ## Plot
 In RFF, the predictions in extrapolation is unstable and cause variance starvation. (see https://arxiv.org/pdf/1706.01445.pdf)
 ||Gaussian process regression | Bayesian linear regression with RFF|
-|--:|:-:|:-:|
+|:--|:-:|:-:|
 |n=3| <img src="https://github.com/SK-tklab/RandomFourierFeatures/blob/main/image/RFMGP_3.png" width="500px"> | <img src="https://github.com/SK-tklab/RandomFourierFeatures/blob/main/image/RFMBLR_3.png" width="500px"> |
 |n=10| <img src="https://github.com/SK-tklab/RandomFourierFeatures/blob/main/image/RFMGP_10.png" width="500px"> | <img src="https://github.com/SK-tklab/RandomFourierFeatures/blob/main/image/RFMBLR_10.png" width="500px"> |
 |n=100| <img src="https://github.com/SK-tklab/RandomFourierFeatures/blob/main/image/RFMGP_100.png" width="500px">| <img src="https://github.com/SK-tklab/RandomFourierFeatures/blob/main/image/RFMBLR_100.png" width="500px"> |
